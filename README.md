@@ -1,2 +1,3 @@
 # swippter.github.io
-Swippter Website
+
+Swippter Shop Website
